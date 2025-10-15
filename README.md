@@ -43,6 +43,6 @@ The app focuses on efficient product browsing, real-time order management, and s
 
 
 ## 📌 Note
-This repository contains **only public screenshots and project description** for portfolio presentation.  
+This repository contains ** screenshots and project description** for portfolio presentation.  
 No proprietary code or backend details are included.  
-Screenshots are publicly available from the Play Store.
+
